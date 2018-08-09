@@ -1,0 +1,13 @@
+gippy~=1.0.1b1
+pandas~=0.23.1
+numpy~=1.14.5
+scipy~=1.1.0
+matplotlib~=2.2.2
+Cython~=0.28.2
+tslearn~=0.1.18.3
+scikit-learn~=0.19.1
+tensorflow
+keras-preprocessing
+keras-applications
+keras 
+jupyter
